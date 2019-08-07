@@ -1,0 +1,33 @@
+{
+  "name": "preact-calendar",
+  "version": "1.0.0",
+  "description": "A dynamic calendar component for use in Preact application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilkul95/preact-calendar.git"
+  },
+  "keywords": [
+    "preactJS",
+    "preact",
+    "react",
+    "calendar",
+    "react-calendar",
+    "preact-calendar"
+  ],
+  "author": "Sahil Kulkarni <sahil.kulkarni95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^8.2.7"
+  },
+  "bugs": {
+    "url": "https://github.com/sahilkul95/preact-calendar/issues"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
