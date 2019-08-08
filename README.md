@@ -5,6 +5,9 @@
 npm install preact-calendar -S
 ```
 
+### This is how it looks
+![Screenshot](/assets/my-cal-v1.png)
+
 ## Usage
 
 Code Example:

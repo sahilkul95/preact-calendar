@@ -1,10 +1,10 @@
 .r-calendar{
-    // background-color: #eee;
-    // -moz-box-shadow: 0 0 5px #ccc;
-    // -webkit-box-shadow: 0 0 5px #ccc;
-    // box-shadow: 0 0 5px #ccc;
-    // font: normal 15px Helvetica Neue, Helvetica, Arial, sans-serif;
-    // min-width: 280px;
+    /* background-color: #eee;
+    -moz-box-shadow: 0 0 5px #ccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+    box-shadow: 0 0 5px #ccc;
+    font: normal 15px Helvetica Neue, Helvetica, Arial, sans-serif;
+    min-width: 280px;*/
 }
 .r-calendar *{
     -moz-box-sizing: border-box;
@@ -113,9 +113,9 @@
     color: white !important;
 }
 .r-calendar .r-cell.r-date:not(.r-past):hover{
-    // background-color: #0066CC;
-    // border: solid 1px #0066CC;
-    // color: #ffffff;
+    /* background-color: #0066CC;
+   border: solid 1px #0066CC;
+   color: #ffffff; */
 }
 .r-calendar .r-cell.r-date.r-sunday{
     color: red;
