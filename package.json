@@ -4,6 +4,7 @@
   "description": "A dynamic calendar component for use in Preact application",
   "main": "dist/index.js",
   "scripts": {
+    "start": "webpack --watch",
     "build": "webpack"
   },
   "repository": {
