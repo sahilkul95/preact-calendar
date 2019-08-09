@@ -101,7 +101,6 @@
 }
 .r-calendar .r-dates .r-cell{
     background-color: #ffffff;
-    border: solid 1px #ffffff;
 }
 .r-calendar .r-cell.r-date{
     cursor: pointer;

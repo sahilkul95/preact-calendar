@@ -24,6 +24,7 @@ render(
   document.body
 );
 ```
+(Do not forget to give proportionate height and width to parent element)
 
 ### Options
 
